@@ -1,3 +1,3 @@
 # hello-world
 My first repository
-Hola, soy Gamma y estoy aprendiendo a usar GitHub
+Hi, I'm Gama and I'm learning to use GitHub
